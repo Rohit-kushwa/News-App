@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="SignIn"><b><u> LogIn</u></b></string>
+    <string name="SignUp"><b><u> SignUp</u></b></string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="log_in">Log in</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="log_in_underline">Log In</string>
+    <string name="log_in_using">Log in using</string>
+    <string name="or">or</string>
+    <string name="forget_password">Forget password ?</string>
+    <string name="enter_your_email_id">Enter your Email Id</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="a_password_reset_link_will_be_sent_to_your_email_id">A password reset link will be sent to your Email id</string>
+    <string name="send_email">send Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_using">Sign Up using</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="create_password">Create Password</string>
+    <string name="continu">Continue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

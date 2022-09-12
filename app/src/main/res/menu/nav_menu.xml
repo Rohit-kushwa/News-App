@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:id="@+id/navHome"
+        android:icon = "@drawable/ic_home"/>
+    <item android:id="@+id/navArticles"
+        android:title="Articles"
+        android:icon = "@drawable/ic_news"/>
+    <item android:id="@+id/navMycity"
+        android:title="My city"
+        android:icon="@drawable/ic_hotel"/>
+    <item android:id="@+id/navLive"
+        android:title="Live"
+        android:icon="@drawable/ic_live"/>
+
+</menu>

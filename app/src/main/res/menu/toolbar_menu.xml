@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/showBookmarks"
+        android:title="Bookmarks"/>
+
+    <item android:id="@+id/LanguagePreferences"
+        android:title="Languages preferences"/>
+
+    <item android:id="@+id/TextSize"
+        android:title="Text size"/>
+
+    <item android:id="@+id/Settings"
+        android:title="Settings"/>
+
+</menu>
